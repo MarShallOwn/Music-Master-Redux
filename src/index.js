@@ -7,6 +7,6 @@ import {Provider} from 'react-redux';
 
 ReactDOM.render(
     <Provider store={store}>
-        <MusicMaster/>
+        <MusicMaster />
     </Provider>,
     document.getElementById('root'));
